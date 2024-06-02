@@ -1,1 +1,1 @@
-# first-react-project-todolist
+# to do list app in react
